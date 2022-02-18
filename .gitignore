@@ -3,3 +3,6 @@ canon/vault/*
 
 panasonic/video0.png
 panasonic/vault/*
+
+# Other
+.idea/
